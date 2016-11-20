@@ -3,5 +3,12 @@
 }
 .not {
 	font-size:10px;
-	
 }
+
+
+.navbar-brand {
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	font-size: 30px;
+}
+

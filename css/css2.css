@@ -1,0 +1,29 @@
+h1 {
+	text-align: top;
+	text-align: center;
+	font-family: broadway;
+	padding-top: 100px;
+
+}
+.nav-link {
+	text-align: center;
+	color: #ecf0f1; 
+	padding: 10px;
+	 border-radius: 20px;
+	background-color: #2ecc71; 
+}
+.nav-link:hover {
+	background-color: #3498db; 
+	broder-color:#3498db;
+
+}
+.jumbotron {
+background-image: url(http://quotesideas.com/wp-content/uploads/2015/02/Memories-quote-with-travel-background.png);  
+background-size: cover; 
+} 
+
+.navbar-brand {
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	font-size: 30px;
+}
