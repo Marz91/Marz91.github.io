@@ -1,0 +1,7 @@
+.displayinline {
+	display: inline-block;
+}
+.not {
+	font-size:10px;
+	
+}
